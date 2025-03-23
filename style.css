@@ -1,0 +1,42 @@
+h1
+{
+   color: red ;
+   -webkit-text-stroke: 2px black;
+   font-size: 45px;
+   background-clip: text;
+   -webkit-background-clip: text;
+   font-family: 'Comic Sans MS';
+   
+   
+   
+}
+
+body
+{
+       background-image: url("https://wallpaperaccess.com/full/2602009.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+
+}
+     
+     
+
+
+
+#carte
+{
+	width:1000;
+        margin:0 auto;
+	
+	text-align:center;
+	align-content:center;
+        
+}
+
+h2
+{
+        font-size: 32px;
+        font-family: 'Arial';
+}
